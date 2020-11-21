@@ -13,3 +13,4 @@ node/checkpoint numbers and the IDs of the validators who finalized each checkpo
 
 * The output will display all the validators and each voting process.
 * The voting process will print the sum of the deposit amounts, the validators who voted to go left or right and the current majority link.
+* The repositories consists of a PDF with example outputs.
