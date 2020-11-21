@@ -1,0 +1,5 @@
+﻿  PP2.cpp
+C:\Users\manij\Desktop\School\PP2\PP2\PP2.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\PP2\PP2\PP2.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\manij\Desktop\School\PP2\PP2\PP2.cpp(47,27): warning C4018: '<': signed/unsigned mismatch
+  PP2.vcxproj -> C:\Users\manij\Desktop\School\PP2\Debug\PP2.exe
